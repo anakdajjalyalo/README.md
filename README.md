@@ -9,7 +9,7 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 - 👯 **Looking to Collaborate On:** Open-source projects, innovative tech solutions, and community-driven initiatives.
 - 🤔 **Looking for Help With:** Best practices in software architecture and scalable solutions.
 - 💬 **Ask Me About:** JavaScript, Python, web development, and software engineering principles.
-- 📫 **How to Reach Me:** [Email](mailto:anakdajjalyalo@example.com) | [LinkedIn](https://www.linkedin.com/in/anakdajjalyalo)
+- 📫 **How to Reach Me:** [Email](mailto:wesgebel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anakdajjalyalo)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I love hiking and exploring nature whenever I get the chance.
 
